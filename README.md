@@ -20,6 +20,9 @@
     - popularity : 월 평균 리뷰 수를 기준으로 5단계로 분류한 특성 
     - recommend : popularity를 기준으로 이진 분류한 특성   
   - 모델 학습 
+     
+     <img width="800" alt="스크린샷 2022-02-10 오후 10 15 35" src="https://user-images.githubusercontent.com/86868063/153415804-b9dd9def-3270-4e28-ac7f-25f834695407.png">
+
   <br>
   
   ## 프로젝트 결과 
